@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ank1x
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Visualization and Machine Learning with R.
+- 🌱 I’m currently learning Data Visualization and Data Analytics with R.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
