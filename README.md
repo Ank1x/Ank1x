@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[Profile icon created by Karacis - Flaticon] (https://www.flaticon.com/free-icons/droplet")
+[Profile icon created by Karacis - Flaticon] (https://www.flaticon.com/free-icons/droplet) 
