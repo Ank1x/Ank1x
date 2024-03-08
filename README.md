@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankit
+- 👋 Hi, I’m @Ank1x
 - 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
