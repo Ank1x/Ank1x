@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ank1x
+- 👋 Hi.
 - 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning JavaScript/ Mongoose/ React.
 - 💞️ I’m looking to collaborate on ...
